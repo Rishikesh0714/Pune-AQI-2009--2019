@@ -1,0 +1,13 @@
+name: Pune_Air_Quality_Index_AQI
+title: Pune_Air_Quality_Index_AQI
+username:
+account: rishikesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4397064
+bundleId: 4831135
+url: https://rishikesh.shinyapps.io/Pune_Air_Quality_Index_AQI/
+when: 1626612394.14703
+lastSyncTime: 1626612394.14703
+asMultiple: FALSE
+asStatic: FALSE
