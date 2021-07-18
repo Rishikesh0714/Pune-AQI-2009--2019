@@ -4,6 +4,9 @@ Assignment 3 Developing Data Products
 ## AQI
 AQI transforms complex air quality data of various pollutants into a single index value which makes it easy to understand. Extent of air pollution and its severity can be mapped by calculating AQI for the respective air pollutants. Increase in AQI indicates increased air pollution and increased chances of threats associated with pollutants to human health.
 
+<!DOCTYPE html>
+<html>
+        <body>
 <p> This is Pune city's AQI App data which is collected from <a href="https://www.kaggle.com/prathmeshn/pune-air-quality-index">Kaggle</a> site, this contains records from the year 2009 to 2019. As the population density increases more and more people are buying vehicles this affects the pollution rates and quality of air.
         The quality of air is measured using the AQI. Basically it's a measure of how pollution affects people's health.</p>
         <p> If the AQI is high then it will cause greater damage to respiratory organs, prior to this people will also find difficulty in breathing and end up developing long term diseases.
@@ -18,3 +21,5 @@ AQI transforms complex air quality data of various pollutants into a single inde
                 <li>(301-400)- very bad, exposure to this air will cause severe damage and may need oxygen supply.</li>
                 <li>(401-500)- hazardous, this will create worst effect on bodies long time exposure will reduce life spam.</li>
             </ul>
+        </body>
+        </html>
