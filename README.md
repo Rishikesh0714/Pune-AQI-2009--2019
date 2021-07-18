@@ -13,17 +13,17 @@ AQI transforms complex air quality data of various pollutants into a single inde
             Below is range of AQI from minimal to hazardous range.</p>
             
             
-                - (0-50)- good
-                - (51-100)- satisfactory, might cause little discomfort while breathing
-                - (101-200)- moderate pollution, might cause some lung diseases like asthma
-                - (201-300)- bad, will cause even more discomfort may also develop heart problems
-                - (301-400)- very bad, exposure to this air will cause severe damage and may need oxygen supply
-                - (401-500)- hazardous, this will create worst effect on bodies long time exposure will reduce life spam
+1. (0-50)- good
+2. (51-100)- satisfactory, might cause little discomfort while breathing
+3. (101-200)- moderate pollution, might cause some lung diseases like asthma
+4. (201-300)- bad, will cause even more discomfort may also develop heart problems
+5. (301-400)- very bad, exposure to this air will cause severe damage and may need oxygen supply
+6. (401-500)- hazardous, this will create worst effect on bodies long time exposure will reduce life spam
             
-        
-       ## Links
        
-        - [Presentation Pitch](https://rpubs.com/RishikeshPillay/791792)
-        - [Github Repo](https://github.com/Rishikesh0714/Pune-AQI-2009--2019)
-        - [Data](https://www.kaggle.com/prathmeshn/pune-air-quality-index)
-        - [Web App](https://rishikesh.shinyapps.io/Pune_Air_Quality_Index_AQI/)
+## Links
+       
+1. [Presentation Pitch](https://rpubs.com/RishikeshPillay/791792)
+2. [Github Repo](https://github.com/Rishikesh0714/Pune-AQI-2009--2019)
+3. [Data](https://www.kaggle.com/prathmeshn/pune-air-quality-index)
+4. [Web App](https://rishikesh.shinyapps.io/Pune_Air_Quality_Index_AQI/)
